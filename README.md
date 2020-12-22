@@ -1,4 +1,4 @@
-# Node.js GraphQL
+# Node.js GraphQL Helper
 
 Example usage of GraphQL on Node.js.
 
