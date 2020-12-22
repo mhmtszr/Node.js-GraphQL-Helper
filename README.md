@@ -24,7 +24,7 @@ http://localhost:5000/graphql
 
 ### Examples
 
-We are adding Dmitri Gluhovski and her book Metro 2033:\
+We are adding Dmitri Gluhovski and his book Metro 2033:\
 ![mutation](/examples/mutation.png)\
 Response:\
 ![mutation_response](/examples/mutation_response.png)\
