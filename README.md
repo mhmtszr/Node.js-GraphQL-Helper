@@ -25,10 +25,10 @@ http://localhost:5000/graphql
 ### Examples
 
 We are adding Dmitri Gluhovski and her book Metro 2033:\
-![mutation](https://github.com/mhmtszr/Node.js-GraphQL/blob/master/examples/mutation.png?raw=true)\
-Response\
-![mutation_response](https://github.com/mhmtszr/Node.js-GraphQL/blob/master/examples/mutation_response.png?raw=true)\
-Let's see all the books\
-![query](https://github.com/mhmtszr/Node.js-GraphQL/blob/master/examples/query.png?raw=true)\
-Response\
-![query_response](https://github.com/mhmtszr/Node.js-GraphQL/blob/master/examples/query_response.png?raw=true)
+![mutation](/examples/mutation.png)\
+Response:\
+![mutation_response](/examples/mutation_response.png)\
+Let's see all the books:\
+![query](/examples/query.png)\
+Response:\
+![query_response](/examples/query_response.png)
